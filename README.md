@@ -1,15 +1,9 @@
-# [Welcome to My Profile! 👋]
+ Welcome to My Profile! 👋
   
 - Hello Everyone 👋, My name is Huseyn.
 - 👀 I’m interested in Dart/Flutter.
 - 🌱Presently, I'm developing Softwares & apps with Flutter.
 - 📫 How to reach me ...valiyevhsn@gmail.com
-
-
-*Huseynveliyev/Huseynveliyev* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-
 
 
 <br>
