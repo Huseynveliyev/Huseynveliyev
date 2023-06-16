@@ -1,9 +1,7 @@
 
 # Hello, I'm [Husain] 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue)](www.linkedin.com/in/
-huseyn-veliyev-742105220
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue)](https://www.linkedin.com/in/huseynveliyev96/)
 
 
 I'm a Flutter developer passionate about creating mobile applications. I mainly work with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
@@ -34,7 +32,7 @@ I'm a Flutter developer passionate about creating mobile applications. I mainly 
 If you'd like to know more about my projects or get in touch for collaboration, you can reach me through the following channels:
 
 - Email: valiyevhsn@example.com
-- LinkedIn: [Visit Profile](https://www.linkedin.com/in/huseyn-veliyev-742105220/)
+- LinkedIn: [Visit Profile](https://www.linkedin.com/in/huseynveliyev96/)
 
 
 ## 📈 GitHub Statistics
