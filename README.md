@@ -1,32 +1,44 @@
- Welcome to My Profile! 👋
-  
-- Hello Everyone 👋, My name is Huseyn.
-- 👀 I’m interested in Dart/Flutter.
-- 🌱Presently, I'm developing Softwares & apps with Flutter.
-- 📫 How to reach me ...valiyevhsn@gmail.com
+
+# Hello, I'm [Husain] 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue)](www.linkedin.com/in/
+huseyn-veliyev-742105220
+)
 
 
-<br>
+I'm a Flutter developer passionate about creating mobile applications. I mainly work with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 
-<!-- <h2><b>📱 Contact </b></h2>
-<p align="center">
+## 💼 Work Experience
 
-<a href="https://www.linkedin.com/in/huseyn-veliyev-742105220/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>&nbsp;
-</p>
-
-<br> -->
+- Frazex LLC - Flutter developer intern, six months
 
 
-<h2><b>💻 Languages</b></h2>
-<p align="center">
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
- <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-</p>
+## 🚀 Skills
 
-<br>
+- Flutter
+- Dart
+- Firebase
+- RESTful API
+- Git
+- Provider
+- Bloc
+
+## 🌱 Currently Learning
+
+- State management (Riverpod)
+- Flutter animations
+- Clean Architecture
+
+## 📫 Get in Touch
+
+If you'd like to know more about my projects or get in touch for collaboration, you can reach me through the following channels:
+
+- Email: valiyevhsn@example.com
+- LinkedIn: [Visit Profile](https://www.linkedin.com/in/huseyn-veliyev-742105220/)
 
 
-[![Stat](https://github-readme-stats.vercel.app/api?username=Huseynveliyev&count_private=true&show_icons=true&theme=blueberry)]      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseynveliyev&hide=go,scss,typescript,less&theme=blueberry)]
+## 📈 GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huseynveliyev&show_icons=true)](https://github.com/Huseynveliyev)
+
+
