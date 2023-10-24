@@ -6,11 +6,6 @@
 
 I'm a Flutter developer passionate about creating mobile applications. I mainly work with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 
-## 💼 Work Experience
-
-- Frazex LLC - Flutter developer intern, six months
-
-
 ## 🚀 Skills
 
 - Flutter
