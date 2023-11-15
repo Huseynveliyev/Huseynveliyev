@@ -30,8 +30,3 @@ If you'd like to know more about my projects or get in touch for collaboration, 
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/huseynveliyev96/)
 
 
-## 📈 GitHub Statistics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huseynveliyev&show_icons=true)](https://github.com/Huseynveliyev)
-
-
