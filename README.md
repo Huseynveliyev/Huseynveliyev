@@ -29,5 +29,3 @@ If you'd like to know more about my projects or get in touch for collaboration, 
 - Email: valiyevhsn@example.com
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/huseynveliyev96/)
 
-
-https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
