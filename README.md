@@ -26,6 +26,6 @@ I'm a Flutter developer passionate about creating mobile applications. I mainly 
 
 If you'd like to know more about my projects or get in touch for collaboration, you can reach me through the following channels:
 
-- Email: valiyevhsn@example.com
+- Email: valiyevhsn@gmail.com
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/huseynveliyev96/)
 
