@@ -15,6 +15,8 @@ I'm a Flutter developer passionate about creating mobile applications. I mainly 
 - Git
 - Provider
 - Bloc
+- Google Maps
+  
 
 ## 🌱 Currently Learning
 
